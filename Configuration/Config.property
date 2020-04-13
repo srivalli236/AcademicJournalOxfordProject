@@ -1,0 +1,5 @@
+chromeDriver=./src/test/resources/binaries/chromedriver.exe
+
+FirefoxDriver=./src/test/resources/binaries/geckodriver.exe
+
+URL=https://academic.oup.com/journals
